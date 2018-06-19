@@ -8,5 +8,8 @@ Sometimes I think the condemnation of software as 'unpythonic' may be somewhat u
 Finally, for another, complementary perspective on what is Pythonic design, try the following in a python interpreter:
 ``` import this ```
 
+# Code Style
+
 # ref
 https://blog.startifact.com/posts/older/what-is-pythonic.html
+http://docs.python-guide.org/en/latest/writing/style/
